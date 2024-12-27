@@ -30,4 +30,4 @@
 
 ## µ Note
 
-- Computer Science Major with a strong interest in Physics    
+- Computer Science major with an interest in Physics. In my spare time, I enjoy exploring topics related to cosmology and the universe.
