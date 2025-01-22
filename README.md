@@ -2,7 +2,7 @@
 
 - 👋 Hi! I'm AB (she/her) – shaping ideas into tangible solutions.
 
-- 🌌 Exploring AI and Beyond: From cosmology to fashion, I’m driven to normalize AI with a visionary approach.
+- 🌌 Exploring AI and Beyond: From cosmology to fashion, I’m driven to normalize AI with a visionary approach.  
 
 - 🛠️ Building Blocks: Currently working on constructing a Convolutional Neural Network (CNN) from scratch and expanding my skills in software development with Swift and Kotlin.
 
