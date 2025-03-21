@@ -14,7 +14,7 @@
 
 - 🌠 Cosmic Motions: Exploring the universe through code
 
-- 🌱 Vegan Clothing: Innovating sustainable, AI-powered fashion
+- 🌱 Vegan Clothing: Innovating sustainable, AI-powered fashion  
 
 - 🧬 CNN from Scratch: Hands-on deep learning fundamentals
 
