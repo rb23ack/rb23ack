@@ -1,5 +1,5 @@
 ## 🐝 About Me
-
+    
 - 👋 Hi! I'm AB (she/her) – shaping ideas into tangible solutions.
 
 - 🌌 Exploring AI and Beyond: From cosmology to fashion, I’m driven to normalize AI with a visionary approach.  
