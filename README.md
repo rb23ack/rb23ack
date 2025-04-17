@@ -11,7 +11,7 @@
 - 🎮 Game Dev as a Learning Tool: Game development offers me a unique way to demonstrate my understanding of algorithms and apply data structures practically.
 
 ## ⚡ Workshops and Projects
-
+      
 - 🌠 Cosmic Motions: Exploring the universe through code
 
 - 🌱 Vegan Clothing: Innovating sustainable, AI-powered fashion  
