@@ -12,7 +12,7 @@
 
 ## ⚡ Workshops and Projects
       
-- 🌠 Cosmic Motions: Exploring the universe through code
+- 🌠 Cosmic Motions: Exploring the universe through code   
 
 - 🌱 Vegan Clothing: Innovating sustainable, AI-powered fashion  
 
